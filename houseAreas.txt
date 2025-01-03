@@ -1,0 +1,9 @@
+Living Spaces: Living room, dining room, family room.
+Sleeping Areas: Bedrooms, guest rooms.
+Functional Areas: Kitchen, bathroom, laundry room.
+Storage: Attic, basement, closets, pantry.
+Outdoor Areas: Porch, deck, garden, garage.
+
+Entryways: Foyer, mudroom.
+Outdoor Spaces: Garden, patio, backyard.
+Parking Areas: Driveway, carport.
