@@ -7,3 +7,43 @@ Outdoor Areas: Porch, deck, garden, garage.
 Entryways: Foyer, mudroom.
 Outdoor Spaces: Garden, patio, backyard.
 Parking Areas: Driveway, carport.
+
+
+
+=================================================================
+Private Spaces
+--------------
+1) Bedroom: A personal space for sleeping and relaxation. Often includes a bed, wardrobe, dresser, and bedside tables.
+2) Bathroom: Used for personal hygiene activities like bathing, showering, and toileting. May include a sink, bathtub, shower, toilet, and mirror.
+3) Dressing Room/Walk-in Closet (optional): A space for storing clothes, shoes, and accessories.
+
+Shared Spaces
+-------------
+4) Living Room: A central area for relaxation, socializing, or entertainment. May include sofas, a coffee table, TV, and bookshelves.
+5) Dining Room: A dedicated space for eating meals. Typically furnished with a dining table and chairs.
+6) Kitchen: The area for preparing and cooking food. Includes appliances like a stove, refrigerator, sink, and storage cabinets.
+7) Family Room (optional): Similar to the living room but more casual, often used for family activities.
+
+Outdoor Spaces
+--------------
+8) Balcony: A small outdoor area attached to a room, often elevated. Used for relaxation or small gatherings.
+9) Courtyard: An open, often central area in a home, typically surrounded by walls or buildings.
+10) Garden: An outdoor area for plants, flowers, and sometimes seating.
+11) Terrace/Rooftop: A flat, open area on the roof of a building.
+12) Patio: A paved outdoor space adjacent to the house, often used for dining or recreation.
+
+Utility and Functional Spaces
+-----------------------------
+13) Hallway/Corridor: Passageways connecting different rooms in the house.
+14) Staircase: Connects different floors of a home.
+15) Garage/Carport: Space for parking vehicles and storage.
+16) Laundry Room: Equipped with a washing machine, dryer, and sometimes a sink for washing clothes.
+17) Basement (optional): Located below ground level, often used for storage or as an additional living space.
+18) Attic (optional): A space under the roof, often used for storage.
+19) Study/Office: A quiet space for working or studying, typically with a desk and chair.
+20) Storage Room/Pantry: Dedicated to storing items like food, cleaning supplies, or tools.
+
+Entry and Transitional Spaces
+-----------------------------
+21) Foyer/Entryway: The main entrance area of the home. Often includes a coat rack, shoe storage, or a console table.
+22) Porch: A covered area at the front or back entrance of the house.
