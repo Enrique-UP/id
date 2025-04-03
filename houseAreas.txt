@@ -1,3 +1,6 @@
+Formula for luxury home or etc. Height, Light & Space.
+=================================================================
+
 Living Spaces: Living room, dining room, family room.
 Sleeping Areas: Bedrooms, guest rooms.
 Functional Areas: Kitchen, bathroom, laundry room.
@@ -7,8 +10,6 @@ Outdoor Areas: Porch, deck, garden, garage.
 Entryways: Foyer, mudroom.
 Outdoor Spaces: Garden, patio, backyard.
 Parking Areas: Driveway, carport.
-
-
 
 =================================================================
 Private Spaces
