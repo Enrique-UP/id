@@ -1,28 +1,37 @@
 MyNeed
-:- Big Kitchen + fan + exhaused fan + chimney
+:- Big Kitchen + fan + exhaused fan + chimney + stove, refrigerator, sink, and storage cabinets.
 :- Crokery big shelf
 :- Raw Food (Grain/Anaj/godam) Store room  + fan
 
 :- Big Bathroom + fan
 :- 3 bathrooms + 3 washrooms with fans + pipes
 :- Basins with big mirror + its box case
-:- Cloth washing room with washing machine + fan + cloths soaking/drying area
+:- Cloth washing room (laundry room) with washing machine + fan + cloths soaking/drying area
 
 :- Drawing room area
 :- Bed rooms
+:- Dining room
+:- Study/Office room
+:- Guests room + attach washroom & bathroom
 :- All rooms should be with open & airy windows
 :- All Family members big get together area / multipurpose room (with open & airy windows) with bone fire area in room
-:- Dressing room/store + cloths showcase of transparent mirros + big mirror + fan
+:- Dressing room/store + cloths showcase of transparent mirros + big mirror + fan, storing clothes, shoes, and accessories etc.
 :- Locker room & hidden lockers
 
-:- Cotyard with bone fire area + big stones + pathar in all cotyard with little grass and trees + garden + hammock(झूला) 
-:- Garage
+:- Cotyard with bone fire area(patio) + big stones + pathar in all cotyard with little grass and trees + garden + hammock(झूला) 
+:- backyard area
+:- Garage & carport
 
 :- Balconies + hammock(झूला) +  jaali
-:- Veranda + hammock(झूला) +  jaali
+:- Veranda/Porch + hammock(झूला) +  jaali
 :- Nice terrace
 
 :- Big main gates of house (Folding gates)
+
+:- Hallway/Corridor: Passageways connecting different rooms in the house.
+:- Foyer/Entryway: The main entrance area of the home. Often includes a coat rack, shoe storage, or a console table.
+:- Porch: A covered area at the front or back entrance of the house.
+:- 
 :- 
 :- 
 
@@ -41,6 +50,7 @@ Outdoor Spaces: Garden, patio, backyard.
 Parking Areas: Driveway, carport.
 
 =================================================================
+
 Private Spaces
 --------------
 1) Bedroom: A personal space for sleeping and relaxation. Often includes a bed, wardrobe, dresser, and bedside tables.
