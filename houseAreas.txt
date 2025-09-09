@@ -1,6 +1,6 @@
 MyNeed
 :- Big Bathroom + fan
-:- 3 bathrooms + 3 washrooms with pipes
+:- 3 bathrooms + 3 washrooms with fans + pipes
 :- Big Kitchen + fan + exhaused fan + chimney
 :- Food Store room  + fan
 :- Dressing room/store + cloths showcase of transparent mirros + big mirror + fan
