@@ -15,12 +15,14 @@ MyNeed
 :- Dressing room/store + cloths showcase of transparent mirros + big mirror + fan
 :- Locker room & hidden lockers
 
-:- Cotyard with bone fire area + big stones + pathar in all cotyard with little grass and trees + hammock(झूला) 
-:- Balconies + hammock(झूला) +  jaali
+:- Cotyard with bone fire area + big stones + pathar in all cotyard with little grass and trees + garden + hammock(झूला) 
 :- Garage
+
+:- Balconies + hammock(झूला) +  jaali
+:- Veranda + hammock(झूला) +  jaali
 :- Nice terrace
 
-:- 
+:- Big main gates of house (Folding gates)
 :- 
 :- 
 
