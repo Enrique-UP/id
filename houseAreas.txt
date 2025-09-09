@@ -1,4 +1,5 @@
 MyNeed
+--------------
 :- Big Kitchen + fan + exhaused fan + chimney + stove, refrigerator, sink, and storage cabinets.
 :- Crokery big shelf
 :- Raw Food (Grain/Anaj/godam) Store room  + fan
@@ -6,7 +7,7 @@ MyNeed
 :- Big Bathroom + fan
 :- 3 bathrooms + 3 washrooms with fans + pipes
 :- Basins with big mirror + its box case
-:- Cloth washing room (laundry room) with washing machine + fan + cloths soaking/drying area
+:- Laundry room (Cloth washing room) with washing machine + fan + cloths soaking/drying area + wire/stand
 
 :- Drawing room area
 :- Bed rooms
@@ -19,11 +20,11 @@ MyNeed
 :- Locker room & hidden lockers
 
 :- Cotyard with bone fire area(patio) + big stones + pathar in all cotyard with little grass and trees + garden + hammock(झूला) 
-:- backyard area
+:- Backyard area
 :- Garage & carport
 
-:- Balconies + hammock(झूला) +  jaali
-:- Veranda/Porch + hammock(झूला) +  jaali
+:- Balconies + hammock(झूला) +  Jaali
+:- Veranda/Porch + hammock(झूला) +  Jaali
 :- Nice terrace
 
 :- Big main gates of house (Folding gates)
@@ -31,9 +32,6 @@ MyNeed
 :- Hallway/Corridor: Passageways connecting different rooms in the house.
 :- Foyer/Entryway: The main entrance area of the home. Often includes a coat rack, shoe storage, or a console table.
 :- Porch: A covered area at the front or back entrance of the house.
-:- 
-:- 
-:- 
 
 =================================================================
 Formula for luxury home or etc. Height, Light & Space.
