@@ -21,6 +21,7 @@ MyNeed
 
 :- Cotyard with bone fire area(patio) + big stones + pathar in all cotyard with little grass and trees + garden + hammock(झूला) 
 :- Backyard area
+:- Deck
 :- Garage & carport
 
 :- Balconies + hammock(झूला) +  Jaali
